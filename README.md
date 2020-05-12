@@ -1,3 +1,1 @@
-# hello-world
-hello
-HI!
+# os homework for SJF HPF HRRF
